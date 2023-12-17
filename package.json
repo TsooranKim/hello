@@ -1,0 +1,13 @@
+{
+  "name": "@soorankim/hello",
+  "version": "1.0.1",
+  "description": "hello world",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.19.0"
+  }
+}
